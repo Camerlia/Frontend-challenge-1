@@ -1,0 +1,21 @@
+*{
+    
+    text-align: center;
+}
+body{
+    padding: 4rem;
+    background-color: #D5E1EF;
+}
+.conatiner{
+    max-width: 320px;
+    margin: auto;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 10px;
+    max-height: 500px;
+}
+
+.conatiner img{
+    max-width: 100%;
+    height: 100%;
+}
